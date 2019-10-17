@@ -403,8 +403,13 @@ A good first step towards writing good Functional code is to stop using the belo
 ## Resources
 
 [ImmutableJS](https://immutable-js.github.io/immutable-js/docs/#/)
+
 [RamdaJS](https://ramdajs.com/)
+
 [ESLint FP Plugin](https://www.npmjs.com/package/eslint-plugin-fp)
+
 [OO VS FP](https://medium.com/@cscalfani/)
+
 [Goodby Object oriented programming](goodbye-object-oriented-programming-a59cda4c0e53)
+
 [7 Reasons to use FP for Frontend](https://tsh.io/blog/7-reasons-to-use-functional-programming-on-frontend-1-2/)
